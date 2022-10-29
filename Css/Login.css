@@ -5,9 +5,9 @@
 html,body{
     height: 100%;
 }
-
 a,button{
     cursor: pointer;
+    text-decoration: none;
 }
 
 @keyframes pan{
